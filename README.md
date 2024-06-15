@@ -1,6 +1,7 @@
 ### Hi there, I'm Jack! 👋
 
-HND Software Development (Year 2)
+Kitchen Associate, JD Wetherspoons
+BCs Computing @ Abertay University
 
 <!--
 **jxkc/jxkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
