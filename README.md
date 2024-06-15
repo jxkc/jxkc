@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack! 👋
 
-Kitchen Associate, JD Wetherspoons
+Kitchen Associate, JD Wetherspoons <br>
 BCs Computing @ Abertay University
 
 <!--
