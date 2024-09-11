@@ -1,9 +1,7 @@
 ### Hi there, I'm Jack! 👋
 
 Kitchen Associate, JD Wetherspoons <br>
-BCs Computing @ Abertay University
-
-<p>Currently learning Rust! 🦀</p>
+BCs Computing 3rd Year @ Abertay University
 <!--
 **jxkc/jxkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
