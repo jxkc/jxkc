@@ -1,7 +1,10 @@
-### Hi there, I'm Jack! 👋
+# Jack Jefferson
+## BCs Computing 3rd Year @ Abertay University
+### He/Him
 
-Kitchen Associate, JD Wetherspoons <br>
-BCs Computing 3rd Year @ Abertay University
+I partake in the Abertay Programming Society and Abertay Hacksoc. <br>
+I am largely invested in Systems Programming, Scripting and backend development. <br>
+
 <!--
 **jxkc/jxkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
